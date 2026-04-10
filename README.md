@@ -29,11 +29,10 @@ This repository contains codes and resources related to my published research pa
 🔗 https://www.sciencedirect.com/science/article/pii/S0167926025002019  
 
 ---
+---
 
 Verilog codes, whose names starting from TR-ABM1 are of the paper-2 (An Efficient Architecture of Truncated Booth Multiplier for AI Application
 ). Rest of the codes are of paper-1 (High-Speed and High-Performance Approximate Multipliers for Error Resilient Applications)
----
-
 
 
 ## Repository Contents
