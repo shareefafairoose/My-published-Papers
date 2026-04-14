@@ -1,4 +1,4 @@
-# My Published Papers
+# high-speed-approximate-multipliers
 
 This repository contains codes and resources related to my published research papers.
 
